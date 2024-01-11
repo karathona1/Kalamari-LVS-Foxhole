@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "foxhole/vehicles/widow/DestroyerTankWA"
+	"$normalmap" "foxhole/vehicles/widow/DestroyerTankWN"
+	"$surfaceprop" "Metal"
+}
